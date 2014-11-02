@@ -64,6 +64,8 @@ With this gem you should add to your application.js the following:
 //= require famous-angular
 ```
 
+Full example of usage Famo.us with Angular.JS in Rails 4 application can be found [here](https://github.com/42gems/famous-angular-rails-example)
+
 ## Contributing
 
 Feel free to open an issue ticket if you find something that could be improved.
