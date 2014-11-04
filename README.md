@@ -16,6 +16,13 @@ Add following to your Gemfile:
 gem 'famous-angular-rails'
 ```
 
+In your application.css file add this line:
+```css
+/*
+ *= require famous-angular
+ */
+```
+
 ### Famo.us integration
 
 To use only Famo.US add this line to your application.js file:
